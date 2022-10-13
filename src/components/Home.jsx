@@ -14,7 +14,7 @@ const Home = () => {
                         I'm A Full Stack Developer
                     </h2>
                     <p className="text-gray-500 py-4 max-w-md">
-                        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis harum aliquam voluptas, iusto incidunt sit earum! Porro nostrum quas commodi ut sit repellendus earum officiis! Reprehenderit totam obcaecati temporibus nemo.
+                        
                     </p>
 
                     <div>
